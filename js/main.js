@@ -69,3 +69,4 @@ for(var i = 0; i< 35; i=i++){
     }
     
 }
+document.getElementById("test1").innerHTML = result
