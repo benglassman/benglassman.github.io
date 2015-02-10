@@ -54,7 +54,7 @@ var time = [];
 var result = [];
 
 for(var i = 0; i< 35; i=i++){
-    for(var j = 0; j< eventTime.length, j++){
+    for(var j = 0; j< eventTime.length; j++){
         cen = 0
         var deaths =0;
         if(eventTime[j] < i*30){
